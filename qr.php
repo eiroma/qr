@@ -1,6 +1,6 @@
 <?php
 //error_reporting(-1);
-ini_set("display_errors", "On");
+//ini_set("display_errors", "On");
 
 //送信されたものを受信する
 //文字列をQRコードにする
